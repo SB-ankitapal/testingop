@@ -1,0 +1,22 @@
+{
+  "type": "object",
+  "x-stoplight": {
+    "id": "j28q2z51t6g5u"
+  },
+  "title": "Animal.v1",
+  "description": "Abstract Animal",
+  "properties": {
+    "id": {
+      "type": "string",
+      "x-stoplight": {
+        "id": "1akcp0l94heba"
+      }
+    },
+    "legs": {
+      "type": "string",
+      "x-stoplight": {
+        "id": "otmk774887x82"
+      }
+    }
+  }
+}
